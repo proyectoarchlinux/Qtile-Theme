@@ -27,3 +27,9 @@ sudo cp -R * /home/usuario/
 <li>Neofetch (logo de arch linux en terminal + información del sistema)</li>
 <li>Htop (monitor de recursos)</li>
 </ul>
+
+# Proyecto modificado de:
+
+<ul>
+<li>https://github.com/antoniosarosi/dotfiles</li> 
+</ul>
